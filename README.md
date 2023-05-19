@@ -6,7 +6,7 @@
 
 
 
-- 🔭 GSSoc'23, Contributor at GirlScript Summer of Code**
+- 🔭 **GSSoc'23**, Contributor at GirlScript Summer of Code
 
 - 🌱 I’m currently learning **React**
 
